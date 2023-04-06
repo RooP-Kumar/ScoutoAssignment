@@ -1,5 +1,5 @@
 
-##MVVM Architecture is used
+## MVVM Architecture is used
 
 ## Offline Database 
     - Room database is used for data store in the local database.
